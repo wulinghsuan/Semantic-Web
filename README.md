@@ -1,10 +1,10 @@
 # Semantic-Web
 
->	The RDF XML online validation service by W3C: [https://www.w3.org/RDF/Validator/](https://www.w3.org/RDF/Validator/)  
+#####	The RDF XML online validation service by W3C: [https://www.w3.org/RDF/Validator/](https://www.w3.org/RDF/Validator/)  
 
->	The RDF online translator: [http://rdf-translator.appspot.com/](http://rdf-translator.appspot.com/)
+#####	The RDF online translator: [http://rdf-translator.appspot.com/](http://rdf-translator.appspot.com/)
 
->	The SPARQL Corese engine: [https://project.inria.fr/corese/](https://project.inria.fr/corese/) 
+#####	The SPARQL Corese engine: [https://project.inria.fr/corese/](https://project.inria.fr/corese/) 
 
 
 ### Day 1: Web and Linked Data Principles
